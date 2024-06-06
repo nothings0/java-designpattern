@@ -1,0 +1,4 @@
+sv001,Nguyễn Văn Trung,True,1981/10/25
+sv008,Trần Thị,False,1982/10/12
+sv002,Trần Nguyên,True,1976/11/17
+sv038,Nguyễn Hoàng Hà,True,1976/07/11
