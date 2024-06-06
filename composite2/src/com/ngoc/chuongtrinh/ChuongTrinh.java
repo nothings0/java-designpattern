@@ -41,6 +41,12 @@ public class ChuongTrinh {
         Dvltool.addFile(Dotnet);
         Dvltool.addFile(EC);
 
+        // Set initial paths for folders
+        Dbtool.setPath("Development tools/DB tools");
+        Ctool.setPath("Development tools/Case tools");
+        Dvltool.setPath("Development tools");
+        Otool.setPath("Office tools");
+
         var lst = new ArrayList<Component>();
         lst.add(Dvltool);
         lst.add(Otool);
